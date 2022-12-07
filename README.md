@@ -6,7 +6,7 @@ Link to the thesis will be inserted when it is available online.
 
 ## Installation
 ### Prerequisites
-python 3.10
+python 3.10<br>
 Python package `virtualenv`
 
 ### 1. Make virtual environment
